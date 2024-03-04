@@ -68,10 +68,10 @@
       <!-- États financiers -->
       <div class="col">
         <div class="module p-4">
-          <h5 class="text-center mb-3 module-title">États financiers</h5>
+          <h5 class="text-center mb-3 module-title">Import export</h5>
           <p class="text-center module-text">Générez facilement vos états financiers.</p>
           <div class="text-center">
-            <a href="etats_financiers/index.php" class="btn btn-primary module-btn">Voir plus</a>
+            <a href="import_export/index.php" class="btn btn-primary module-btn">Voir plus</a>
           </div>
         </div>
       </div>
@@ -88,7 +88,7 @@
       <!-- Tableau de bord -->
       <div class="col">
         <div class="module p-4">
-          <h5 class="text-center mb-3 module-title">Tableau de bord</h5>
+          <h5 class="text-center mb-3 module-title">TÉtats financiers</h5>
           <p class="text-center module-text">Description du tableau de bord.</p>
           <div class="text-center">
             <a href="tableau_bord/index.php" class="btn btn-primary module-btn">Voir plus</a>
